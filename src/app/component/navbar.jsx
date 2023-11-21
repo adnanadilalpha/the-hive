@@ -7,7 +7,7 @@ return (
 <img className="" src="logo.png" alt="" />
 
 <div className="text-center text-black">
-    <a className="pr-8" href="#">Water Regional Profile</a>
+    <a className="pr-8 font-bold" href="#">Water Regional Profile</a>
     <a href="#">Water Regional Profile</a>
 </div>
 <div className="flex items-center text-center text-black">

@@ -3,7 +3,7 @@
 
  export default function sideBar () {
 return (
-    <div className="w-72 h-3/4 p-6 rounded-sm bg-white fixed top-28 left-8 z-50 text-cyan-600" >
+    <div className="w-72 h-3/4 p-6 rounded-lg bg-white fixed top-28 left-8 z-50 text-cyan-600" >
 <div className="flex flex-col space-y-4 text-black text-base">
     <a className="border-b text-orange-500  border-orange-500" href="#">Rainfall Factors</a>
     <a className="border-b border-black hover:text-orange-500 hover:border-orange-500"  href="#">River Flows</a>
