@@ -10,8 +10,8 @@ const XWeatherMap = () => {
     aeris.views().then((views) => {
       const map = new views.InteractiveMap(document.getElementById('map'), {
         center: {
-          lat: 35.0254981588326,
-          lon: 72.04833984375,
+          lat: 34.731317,
+          lon: 71.513044,
         },
         zoom: 8,
         layers: 'satellite-water-vapor,fsatellite,fradar,roads',

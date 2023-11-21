@@ -11,8 +11,12 @@ export default function Home() {
   <div>
     <NavBar></NavBar>
    <SideBar></SideBar>
-   {/*<WeatherComponent></WeatherComponent> */}
+  
+   
+   {/* <WeatherComponent></WeatherComponent> */}
   <XWeatherMap></XWeatherMap>
+  
+ 
   </div>
   )
 }
