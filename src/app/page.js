@@ -4,6 +4,7 @@ import WeatherComponent from './component/app';
 import SideBar from './component/sidebar';
 import NavBar from './component/navbar';
 import XWeatherMap from './component/map';
+import Legend from './component/legend';
 
 export default function Home() {
   const aeris = new AerisWeather('8gQu4N2OUfLt2ScA1PFpF', 'AWTWxvpsReFHobyz21GGKy5ewSIchRnKipBAinEX');
@@ -11,6 +12,7 @@ export default function Home() {
   <div>
     <NavBar></NavBar>
    <SideBar></SideBar>
+   <Legend></Legend>
   
    
    {/* <WeatherComponent></WeatherComponent> */}

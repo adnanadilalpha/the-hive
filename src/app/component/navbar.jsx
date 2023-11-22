@@ -6,7 +6,7 @@ return (
     <div className="flex justify-between items-center p-8 w-3/1 h-16 rounded-lg bg-white fixed top-4 left-8 right-8 z-50 text-cyan-600" >
 <img className="" src="logo.png" alt="" />
 
-<div className="text-center text-black">
+<div className="text-center text-black text-base">
     <a className="pr-8 font-bold" href="#">Water Regional Profile</a>
     <a href="#">Water Regional Profile</a>
 </div>
